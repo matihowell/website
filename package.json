@@ -1,5 +1,5 @@
 {
-  "name": "eleventy-base",
+  "name": "website",
   "version": "1.0.0",
   "description": "This is the starting point for Eleventy projects",
   "scripts": {
@@ -24,12 +24,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tempertemper/eleventy-base.git"
+    "url": "git+https://github.com/matihowell/website.git"
   },
-  "author": "Martin Underhill",
+  "author": "Matthew Howell",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tempertemper/eleventy-base/issues"
+    "url": "https://github.com/matihowell/website/issues"
   },
   "devDependencies": {
     "@11ty/eleventy": "^0.12.1",
