@@ -1,15 +1,15 @@
 {
   "title": "eleventy-base",
-  "company": "Example Limited",
+  "company": "Matthew Howell",
   "version": "1.0.0",
-  "url": "https://example.com",
+  "url": "https://matthewhowell.co.uk",
   "baseurl": "",
-  "repo": "https://github.com/tempertemper/eleventy-base/issues",
+  "repo": "https://github.com/matihowell/website",
   "comments": false,
   "author": {
-    "name": "Example name",
-    "twitter": "@example",
-    "email": "hello+website@example.com"
+    "name": "Matthew Howell",
+    "twitter": "@matihowell",
+    "email": "hola@matthewhowell.co.uk"
   },
   "og_locale": "en_GB"
 }
