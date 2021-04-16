@@ -2,7 +2,9 @@
 <html xml:lang="en" lang="en">
     {% include "head.html" %}
     <body>
+        {% include "nav.html" %}
         <h1>{{ title }}</h1>
+        {{ description }}
         {{ content | safe }}
     </body>
 </html>
